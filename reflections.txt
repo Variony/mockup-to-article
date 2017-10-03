@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I learnt how to use HTML to design an static website. Because the structure of html is standard, which make me easy to code. However, there are too many tags that I can not grasp at one. When I meet problems, I will google the keys words and easily to find the answer.
