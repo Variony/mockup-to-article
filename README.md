@@ -1,2 +1,2 @@
 # mockup-to-article
-Udacity homework 1
+Udacity front-end homework
